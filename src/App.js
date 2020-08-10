@@ -4,7 +4,7 @@ import Matrix from './Matrix.js'
 
 function App() {
   return (
-          <Matrix S='hello' T='hola' />
+          <Matrix S='amazon.jobs' T='googleuniversity' />
   );
 }
 
