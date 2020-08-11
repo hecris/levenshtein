@@ -66,16 +66,16 @@ export class PlaybackIterator {
 
         else if (i === 0 || mymin() === dp[i][j-1]) {
             --j;
-            action = 'INS ' + this.T[j];
+            action = 'INS';
         }
         else if (j === 0 || mymin() === dp[i-1][j]) {
             --i;
-            action = 'DEL ' + this.S[i];
+            action = 'DEL';
         }
         else {
             --i;
             --j;
-            action = 'SUB ' + this.T[j];
+            action = 'SUB';
         }
         this.i = i;
         this.j = j;

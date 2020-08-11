@@ -124,7 +124,8 @@ class Matrix extends React.Component {
 
                 <CellInspector ref={this.cellInspector}
                                S={this.props.S}
-                               T={this.props.T} />
+                               T={this.props.T}
+                               dp={this.dp} />
                 </div>
         )
     }

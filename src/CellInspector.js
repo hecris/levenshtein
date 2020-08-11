@@ -1,4 +1,5 @@
 import React from 'react';
+import PathInspector from './PathInspector.js'
 
 class CellInspector extends React.Component {
     constructor(props) {
@@ -8,6 +9,8 @@ class CellInspector extends React.Component {
             j: -1,
             val: -1,
         };
+        this.examinePath = this.examinePath.bind(this);
+        this.pathInspector = React.createRef();
     }
 
     updateCell(i, j, val) {
@@ -17,7 +20,7 @@ class CellInspector extends React.Component {
     }
 
     examinePath() {
-        alert('get');
+        this.pathInspector.current.updateIterator(this.state.i, this.state.j);
     }
 
     render() {
@@ -40,6 +43,10 @@ class CellInspector extends React.Component {
                     <div>
                         <button onClick={this.examinePath}> Examine Path </button>
                     </div>
+                    <PathInspector dp={this.props.dp}
+                                   S={this.props.S}
+                                   T={this.props.T}
+                                   ref={this.pathInspector}/>
                 </div>
                );
     }
