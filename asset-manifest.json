@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/levenshtein/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/levenshtein/static/js/main.ba031798.chunk.js",
+    "main.js.map": "/levenshtein/static/js/main.ba031798.chunk.js.map",
+    "runtime-main.js": "/levenshtein/static/js/runtime-main.1b4bcc26.js",
+    "runtime-main.js.map": "/levenshtein/static/js/runtime-main.1b4bcc26.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/levenshtein/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.ff567702.chunk.js": "/levenshtein/static/js/2.ff567702.chunk.js",
+    "static/js/2.ff567702.chunk.js.map": "/levenshtein/static/js/2.ff567702.chunk.js.map",
+    "index.html": "/levenshtein/index.html",
+    "precache-manifest.02aaa1a148ca1c6bd827055679feb7c5.js": "/levenshtein/precache-manifest.02aaa1a148ca1c6bd827055679feb7c5.js",
+    "service-worker.js": "/levenshtein/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/levenshtein/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/levenshtein/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.ff567702.chunk.js.LICENSE.txt": "/levenshtein/static/js/2.ff567702.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b4bcc26.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.ff567702.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.ba031798.chunk.js"
+  ]
+}
