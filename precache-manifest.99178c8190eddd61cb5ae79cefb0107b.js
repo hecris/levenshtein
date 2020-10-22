@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fb655a8b633e2d0820e8aa3e7d204716",
+    "revision": "ef894e435199bf9918a8cc3cd8cc06af",
     "url": "/levenshtein/index.html"
   },
   {
-    "revision": "8f73113bda81b82e29f2",
+    "revision": "39c5fb26601bb1d2ec46",
     "url": "/levenshtein/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "ac41e6d5a494f0d70d1e",
+    "revision": "515de12b4652e024b56f",
     "url": "/levenshtein/static/css/main.5ecd60fb.chunk.css"
   },
   {
-    "revision": "8f73113bda81b82e29f2",
-    "url": "/levenshtein/static/js/2.ff567702.chunk.js"
+    "revision": "39c5fb26601bb1d2ec46",
+    "url": "/levenshtein/static/js/2.98c9e8d4.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/levenshtein/static/js/2.ff567702.chunk.js.LICENSE.txt"
+    "url": "/levenshtein/static/js/2.98c9e8d4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ac41e6d5a494f0d70d1e",
-    "url": "/levenshtein/static/js/main.ba031798.chunk.js"
+    "revision": "515de12b4652e024b56f",
+    "url": "/levenshtein/static/js/main.715b8080.chunk.js"
   },
   {
     "revision": "260f4a49aa9dd9969b96",

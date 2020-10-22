@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/levenshtein/precache-manifest.02aaa1a148ca1c6bd827055679feb7c5.js"
+  "/levenshtein/precache-manifest.99178c8190eddd61cb5ae79cefb0107b.js"
 );
 
 self.addEventListener('message', (event) => {
