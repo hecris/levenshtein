@@ -100,7 +100,7 @@ class Matrix extends React.Component {
                 this.cellClickHelper(i-1, j-1);
             }
         }
-        this.state.refs[i][j].current.setColor('blue');
+        this.state.refs[i][j].current.setColor('lightpink');
     }
 
     componentDidUpdate(prevProps){
