@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ef894e435199bf9918a8cc3cd8cc06af",
+    "revision": "e491ebd12952b1bd91dd7e9ca2b608bc",
     "url": "/levenshtein/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/levenshtein/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "515de12b4652e024b56f",
+    "revision": "d82c670117d25aa8125e",
     "url": "/levenshtein/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/levenshtein/static/js/2.98c9e8d4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "515de12b4652e024b56f",
-    "url": "/levenshtein/static/js/main.715b8080.chunk.js"
+    "revision": "d82c670117d25aa8125e",
+    "url": "/levenshtein/static/js/main.d804a4ba.chunk.js"
   },
   {
     "revision": "260f4a49aa9dd9969b96",
