@@ -26,10 +26,14 @@ class Home extends React.Component {
 
     render () {
         return (
-                <div>
-                    <input ref={this.input1} type="text"></input>
-                    <input ref={this.input2} type="text"></input>
-                    <button onClick={this.handleClick}>Go</button>
+                <div style={{'padding': '5px'}}>
+                    <div style={{'margin-bottom': '5px'}}>
+                        <input ref={this.input1} type='text' placeholder='hello'
+                        style={{'margin-right': '5px'}}></input>
+                        <input ref={this.input2} type='text' placeholder='hola'
+                        style={{'margin-right': '5px'}}></input>
+                        <button onClick={this.handleClick}>Go</button>
+                    </div>
                     <Matrix S={this.state.S} T={this.state.T} />
                 </div>
                );
