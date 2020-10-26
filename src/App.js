@@ -28,9 +28,9 @@ class Home extends React.Component {
         return (
                 <div style={{'padding': '5px'}}>
                     <div style={{'margin-bottom': '5px'}}>
-                        <input ref={this.input1} type='text' placeholder='hello'
+                        <input ref={this.input1} type='text' defaultValue='hello'
                         style={{'margin-right': '5px'}}></input>
-                        <input ref={this.input2} type='text' placeholder='hola'
+                        <input ref={this.input2} type='text' defaultValue='hola'
                         style={{'margin-right': '5px'}}></input>
                         <button onClick={this.handleClick}>Go</button>
                     </div>
